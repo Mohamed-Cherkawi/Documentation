@@ -1,3 +1,19 @@
-github c'est une grande plateforme amérique qui nous permet de créer des projets ne ligne en brief elle offre des services de hosting ce qui permmet de partager ces projets vers le public en but de modifier ou ajouter sur ce dernier. Si on veut utuliser github on doit apprendre un utuliser git .
-git c'est un systeme de controle créer en 2005 par Linus Trovalds qui permet de manipuler tout ces donnés avec l'aide d'un plusieurs commaandes afin de stocker et d'enregistrer un ensemble de fichier .
-Alors la difference entre eux c'est que git est l'outil de gestion de version
+github c'est une grande plateforme amérique qui nous permet de créer des projets ne ligne en brief elle offre des services de hosting ce qui permmet de partager ces projets vers le public en but de modifier ou ajouter sur ce dernier. Si on veut utuliser github on doit apprendre à utuliser git .
+git c'est un systeme de controle créer en 2005 par Linus Trovalds qui permet de manipuler tout ces donnés avec l'aide d'un plusieurs commandes afin de stocker et d'enregistrer un ensemble de fichier .
+
+Alors la difference entre eux c'est que git est l'outil de gestion de version alors que Github est une plateforme en ligne qui permet , entre le public de modifier des projets et travailler ensemble .
+
+HTTPS et SSH ce sont tout les deux un protocole qu'on utulise pour consulter le web d'une façon securisé , la difference c'est que HTTPS est moins scurisée que SSH .
+
+Concernat les commandes je veux juste mentionner les importants.
+Tout d'abord avant d'utuliser git il faut au début q'on le configure par mentionner le nom d'utulisateur et l'email à travers ( user.name / user.email ) .
+Alors quand on creer un repo dans github le site suggère deux liens pour se connecter , un pour l' HTTPS et l'autre pour SSH , ça reste reste optionnal .
+On copie ce lien et on va se diriger vers git et utuliser la commande (git clone) suivie par le lien .
+
+Pour ajouter un fichier ( touch suivie par son nom)
+Ensuite pour le envoyer vers le (stagging area) il faut utuliser (git add) .
+Encore Pour transporter des données du staging area vers le dernier recepteur (gith repo)  on utulise (git commit -m "..")
+Finalement pour publier ces locals commits vers github il faut taper cette derniere keyword ( git push ).
+
+
+
