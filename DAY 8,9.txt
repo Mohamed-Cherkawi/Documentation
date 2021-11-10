@@ -1,0 +1,7 @@
+q'est ce que j'ai fais dans 8 et 9 : 
+Le premier jour a ete dificille un peu car je ne connais personne ici alors l activite de se connaitre entre nous ete bien une bonne etape 
+pour m'habituer et s'adapter et casser la timidité entre nous , en plus on a vu le programme pendant cette periode de sus
+le deuxieme jour on a vu git et github et la difference entre eux et comment utiliser les commandes de git et la séance conclu avec un live coding qui
+affiche la procedure de comment transferer des dossiers, fichiers localement vers Github.
+Cela permet de partager,manipuler des projets entre tout les programmeurs.
+
